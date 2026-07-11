@@ -1,0 +1,201 @@
+Intern_ID,Department,Attendance(%),Tasks_Assigned,Tasks_Completed,Task_Completion_Rate(%),Mentor_Feedback_Score(1-10),Engagement_Score(1-10),Quality_of_Work_Score(1-10),Success_Probability,Performance_Label
+1001,Frontend Development,77,14,8,57.1,6.5,3.7,6.4,0.55,Medium
+1002,Digital Marketing,75,14,7,50.0,6.3,5.5,4.1,0.67,Medium
+1003,Digital Marketing,97,12,7,58.3,6.7,5.5,5.7,0.72,High
+1004,UI/UX Design,62,11,6,54.5,3.2,2.8,3.6,0.38,Low
+1005,Cybersecurity,60,15,8,53.3,5.3,6.1,4.2,0.58,Medium
+1006,Cybersecurity,96,16,13,81.2,4.6,2.9,6.3,0.78,High
+1007,Frontend Development,77,16,12,75.0,6.0,5.8,6.3,0.71,High
+1008,Machine Learning,72,11,9,81.8,6.9,4.8,6.0,0.66,Medium
+1009,Cybersecurity,83,8,3,37.5,4.3,6.2,4.7,0.59,Medium
+1010,Data Analyst,63,13,8,61.5,4.7,6.7,4.6,0.66,Medium
+1011,Machine Learning,82,14,10,71.4,5.2,4.8,5.0,0.71,High
+1012,Data Analyst,72,10,5,50.0,6.3,6.2,4.6,0.61,Medium
+1013,Cybersecurity,61,20,6,30.0,4.4,8.7,6.4,0.64,Medium
+1014,Frontend Development,84,11,6,54.5,6.6,4.0,1.3,0.62,Medium
+1015,Digital Marketing,90,8,6,75.0,8.1,7.6,7.0,0.75,High
+1016,UI/UX Design,76,19,8,42.1,4.2,7.8,4.3,0.58,Medium
+1017,Cybersecurity,69,14,13,92.9,3.4,3.1,7.2,0.62,Medium
+1018,Machine Learning,68,15,9,60.0,5.9,6.2,4.1,0.64,Medium
+1019,Data Analyst,63,13,5,38.5,2.8,4.7,3.0,0.39,Low
+1020,Machine Learning,78,15,6,40.0,4.0,4.4,3.1,0.46,Medium
+1021,Digital Marketing,63,9,6,66.7,2.3,4.5,3.3,0.48,Medium
+1022,Digital Marketing,56,13,6,46.2,3.4,5.8,3.2,0.41,Low
+1023,Data Analyst,63,10,7,70.0,5.8,4.5,8.0,0.65,Medium
+1024,Digital Marketing,74,9,6,66.7,3.9,4.9,3.4,0.61,Medium
+1025,Data Analyst,85,20,12,60.0,6.8,4.9,6.3,0.68,Medium
+1026,Data Analyst,64,15,9,60.0,7.0,10.0,5.7,0.69,Medium
+1027,Frontend Development,98,16,8,50.0,7.5,4.0,3.7,0.66,Medium
+1028,Digital Marketing,73,13,9,69.2,4.0,4.6,4.6,0.61,Medium
+1029,UI/UX Design,85,15,11,73.3,6.3,6.3,6.0,0.65,Medium
+1030,Frontend Development,56,10,5,50.0,2.5,2.7,4.2,0.42,Low
+1031,Digital Marketing,68,8,3,37.5,4.3,6.9,1.5,0.47,Medium
+1032,UI/UX Design,89,11,7,63.6,4.9,5.5,5.7,0.72,High
+1033,Data Analyst,58,20,7,35.0,4.2,5.1,4.1,0.48,Medium
+1034,Frontend Development,88,11,8,72.7,9.3,5.7,6.3,0.72,High
+1035,Digital Marketing,85,20,13,65.0,5.4,3.8,8.1,0.7,High
+1036,Digital Marketing,87,20,8,40.0,5.3,6.3,6.7,0.65,Medium
+1037,Cybersecurity,90,17,7,41.2,4.8,5.6,4.1,0.57,Medium
+1038,Digital Marketing,74,9,7,77.8,5.1,6.2,6.7,0.67,Medium
+1039,Data Analyst,79,16,4,25.0,3.4,6.4,2.2,0.36,Low
+1040,UI/UX Design,89,16,7,43.8,6.8,6.0,3.1,0.59,Medium
+1041,Cybersecurity,96,14,10,71.4,6.0,6.2,5.5,0.71,High
+1042,Frontend Development,85,13,11,84.6,6.3,8.1,7.9,0.72,High
+1043,Frontend Development,86,16,13,81.2,3.5,4.1,6.0,0.63,Medium
+1044,UI/UX Design,77,12,6,50.0,3.6,4.4,3.5,0.52,Medium
+1045,Backend Development,76,15,7,46.7,3.6,3.6,4.6,0.46,Medium
+1046,Machine Learning,92,14,7,50.0,7.7,5.8,4.6,0.65,Medium
+1047,Backend Development,82,15,9,60.0,4.0,5.1,5.2,0.61,Medium
+1048,UI/UX Design,92,12,3,25.0,4.2,4.2,3.9,0.61,Medium
+1049,Data Analyst,60,9,3,33.3,3.5,5.7,4.9,0.42,Low
+1050,Frontend Development,87,19,12,63.2,6.9,6.1,6.5,0.72,High
+1051,Digital Marketing,67,15,6,40.0,5.0,3.9,2.8,0.48,Medium
+1052,Data Analyst,83,15,10,66.7,4.7,5.0,6.0,0.62,Medium
+1053,Data Analyst,89,16,10,62.5,4.4,6.3,4.5,0.73,High
+1054,Machine Learning,76,19,15,78.9,8.7,7.2,7.6,0.77,High
+1055,Machine Learning,79,11,8,72.7,8.3,8.1,5.4,0.82,High
+1056,Machine Learning,70,17,14,82.4,7.3,6.5,4.9,0.75,High
+1057,Backend Development,70,16,7,43.8,4.4,2.4,4.3,0.52,Medium
+1058,Machine Learning,88,9,5,55.6,4.8,7.4,6.5,0.58,Medium
+1059,Frontend Development,84,18,14,77.8,5.0,6.8,5.4,0.69,Medium
+1060,Frontend Development,63,18,13,72.2,3.9,1.0,3.1,0.48,Medium
+1061,Backend Development,60,13,9,69.2,3.6,3.4,4.8,0.57,Medium
+1062,Backend Development,59,20,4,20.0,2.0,4.4,1.9,0.36,Low
+1063,Machine Learning,67,12,8,66.7,5.3,4.9,5.9,0.63,Medium
+1064,Frontend Development,79,9,3,33.3,4.8,4.9,4.4,0.54,Medium
+1065,Frontend Development,72,9,6,66.7,7.2,6.5,6.0,0.69,Medium
+1066,Cybersecurity,90,10,5,50.0,5.3,5.1,2.7,0.64,Medium
+1067,Cybersecurity,89,14,8,57.1,5.3,6.5,7.5,0.68,Medium
+1068,Backend Development,100,10,9,90.0,4.5,5.5,6.8,0.77,High
+1069,Digital Marketing,91,8,6,75.0,6.8,5.8,3.7,0.75,High
+1070,Digital Marketing,65,16,11,68.8,5.5,9.4,6.1,0.58,Medium
+1071,Digital Marketing,100,11,8,72.7,7.9,8.8,5.2,0.77,High
+1072,UI/UX Design,88,10,5,50.0,2.9,3.9,3.7,0.58,Medium
+1073,Digital Marketing,72,17,8,47.1,5.2,5.3,5.6,0.51,Medium
+1074,Data Analyst,100,13,7,53.8,7.1,7.8,4.4,0.72,High
+1075,UI/UX Design,72,16,11,68.8,6.6,5.6,6.2,0.64,Medium
+1076,UI/UX Design,87,18,13,72.2,5.7,4.3,7.2,0.66,Medium
+1077,Frontend Development,72,11,5,45.5,5.1,5.1,2.7,0.51,Medium
+1078,Frontend Development,71,16,11,68.8,8.4,8.7,8.9,0.85,High
+1079,Data Analyst,73,15,8,53.3,3.5,6.3,4.8,0.52,Medium
+1080,Cybersecurity,85,14,9,64.3,6.9,5.8,5.0,0.7,High
+1081,Cybersecurity,78,19,14,73.7,5.4,4.8,6.0,0.61,Medium
+1082,UI/UX Design,72,8,5,62.5,4.0,6.4,4.0,0.58,Medium
+1083,Cybersecurity,84,12,8,66.7,4.0,2.7,5.3,0.56,Medium
+1084,Data Analyst,74,12,8,66.7,5.0,4.3,3.7,0.61,Medium
+1085,Digital Marketing,100,12,6,50.0,3.7,4.8,5.9,0.62,Medium
+1086,Data Analyst,76,14,8,57.1,5.3,3.8,3.2,0.57,Medium
+1087,Frontend Development,100,10,4,40.0,5.0,5.3,3.6,0.62,Medium
+1088,UI/UX Design,69,9,6,66.7,4.1,2.6,4.7,0.59,Medium
+1089,Cybersecurity,100,13,8,61.5,8.1,4.4,7.3,0.84,High
+1090,Digital Marketing,77,10,7,70.0,5.2,4.5,5.2,0.68,Medium
+1091,Frontend Development,56,19,13,68.4,4.6,3.7,6.9,0.58,Medium
+1092,Digital Marketing,100,15,8,53.3,5.5,5.2,6.8,0.65,Medium
+1093,Data Analyst,60,12,2,16.7,1.4,3.7,1.0,0.36,Low
+1094,Frontend Development,58,18,9,50.0,2.4,3.5,2.6,0.4,Low
+1095,Machine Learning,53,19,11,57.9,3.4,3.1,3.4,0.43,Low
+1096,UI/UX Design,91,8,6,75.0,6.1,4.1,5.9,0.69,Medium
+1097,Frontend Development,48,13,4,30.8,3.4,2.6,2.6,0.4,Low
+1098,Cybersecurity,88,10,3,30.0,4.9,5.4,4.1,0.51,Medium
+1099,Backend Development,78,17,4,23.5,3.5,5.6,1.1,0.41,Low
+1100,Cybersecurity,66,14,8,57.1,6.0,4.2,7.7,0.57,Medium
+1101,UI/UX Design,86,17,11,64.7,3.9,3.4,4.7,0.55,Medium
+1102,Cybersecurity,58,15,6,40.0,1.8,3.3,2.3,0.4,Low
+1103,Backend Development,88,10,3,30.0,3.9,6.0,6.9,0.55,Medium
+1104,Machine Learning,78,17,8,47.1,7.7,5.2,5.8,0.67,Medium
+1105,Backend Development,59,10,3,30.0,1.8,3.4,3.6,0.32,Low
+1106,Cybersecurity,97,19,10,52.6,5.7,5.2,3.1,0.61,Medium
+1107,Data Analyst,73,14,4,28.6,3.7,2.8,4.3,0.38,Low
+1108,Digital Marketing,60,10,3,30.0,3.9,6.0,1.4,0.44,Low
+1109,Digital Marketing,83,8,4,50.0,5.7,6.0,3.8,0.5,Medium
+1110,Backend Development,76,17,8,47.1,4.7,5.5,6.9,0.56,Medium
+1111,Backend Development,87,18,11,61.1,4.6,3.6,2.7,0.49,Medium
+1112,Frontend Development,81,17,11,64.7,4.2,6.0,4.9,0.62,Medium
+1113,UI/UX Design,66,12,5,41.7,5.1,5.4,3.8,0.56,Medium
+1114,Digital Marketing,82,14,5,35.7,6.4,5.4,7.2,0.56,Medium
+1115,Cybersecurity,51,20,11,55.0,6.5,4.5,5.5,0.65,Medium
+1116,Frontend Development,90,10,7,70.0,5.3,4.6,3.7,0.62,Medium
+1117,Frontend Development,76,9,6,66.7,7.8,8.3,6.5,0.74,High
+1118,UI/UX Design,83,9,5,55.6,7.3,5.1,5.1,0.59,Medium
+1119,Frontend Development,61,8,5,62.5,6.1,6.5,6.8,0.58,Medium
+1120,Digital Marketing,100,15,11,73.3,5.9,6.1,4.6,0.71,High
+1121,Cybersecurity,81,10,5,50.0,5.3,5.7,2.5,0.65,Medium
+1122,Data Analyst,100,9,5,55.6,6.4,7.7,5.3,0.74,High
+1123,Digital Marketing,70,12,6,50.0,5.1,7.0,4.9,0.63,Medium
+1124,Frontend Development,82,12,7,58.3,6.4,6.6,7.1,0.76,High
+1125,Machine Learning,84,13,9,69.2,7.1,5.4,5.8,0.76,High
+1126,UI/UX Design,65,15,4,26.7,2.7,5.2,3.4,0.41,Low
+1127,Frontend Development,78,17,7,41.2,4.7,4.2,5.5,0.55,Medium
+1128,Frontend Development,86,10,7,70.0,5.7,5.0,4.8,0.71,High
+1129,Frontend Development,85,14,7,50.0,4.7,5.7,4.6,0.65,Medium
+1130,Frontend Development,80,19,15,78.9,5.0,6.1,5.4,0.65,Medium
+1131,Digital Marketing,43,16,6,37.5,3.5,4.5,5.2,0.42,Low
+1132,Cybersecurity,74,8,3,37.5,3.8,5.2,1.4,0.41,Low
+1133,Machine Learning,76,19,15,78.9,5.8,6.5,5.6,0.64,Medium
+1134,Machine Learning,70,19,12,63.2,4.4,4.8,5.2,0.68,Medium
+1135,Cybersecurity,94,8,3,37.5,3.3,6.1,3.4,0.58,Medium
+1136,Cybersecurity,85,8,6,75.0,3.0,3.2,1.8,0.66,Medium
+1137,UI/UX Design,78,15,8,53.3,5.0,6.3,4.9,0.53,Medium
+1138,Cybersecurity,83,9,7,77.8,5.3,5.7,4.3,0.77,High
+1139,UI/UX Design,63,20,9,45.0,4.4,4.9,4.8,0.45,Medium
+1140,Machine Learning,82,10,5,50.0,4.9,5.7,3.4,0.44,Low
+1141,Cybersecurity,94,19,12,63.2,4.7,7.5,6.9,0.72,High
+1142,Frontend Development,95,12,8,66.7,5.3,5.0,6.7,0.71,High
+1143,Digital Marketing,67,17,10,58.8,5.5,4.7,5.6,0.66,Medium
+1144,Backend Development,78,19,15,78.9,6.0,6.7,5.9,0.72,High
+1145,Data Analyst,61,11,6,54.5,1.0,2.3,2.4,0.37,Low
+1146,UI/UX Design,90,10,4,40.0,4.9,5.9,5.2,0.62,Medium
+1147,Backend Development,81,19,12,63.2,7.6,4.0,3.7,0.66,Medium
+1148,Backend Development,78,16,11,68.8,5.4,6.8,2.6,0.61,Medium
+1149,Cybersecurity,83,16,9,56.2,6.1,5.0,4.5,0.67,Medium
+1150,UI/UX Design,85,17,10,58.8,7.2,5.4,6.0,0.56,Medium
+1151,Data Analyst,86,16,13,81.2,6.8,4.8,7.7,0.77,High
+1152,Machine Learning,68,8,3,37.5,4.8,3.6,3.0,0.53,Medium
+1153,Machine Learning,86,17,13,76.5,5.3,6.1,8.5,0.73,High
+1154,Digital Marketing,70,13,8,61.5,5.8,3.2,6.0,0.65,Medium
+1155,Machine Learning,61,12,3,25.0,2.8,4.2,3.0,0.41,Low
+1156,Backend Development,65,19,14,73.7,7.6,6.4,5.8,0.67,Medium
+1157,Machine Learning,82,16,10,62.5,5.7,4.5,5.3,0.61,Medium
+1158,Cybersecurity,65,16,6,37.5,2.3,5.2,1.2,0.4,Low
+1159,Frontend Development,78,9,6,66.7,4.9,6.3,4.7,0.62,Medium
+1160,Machine Learning,70,13,5,38.5,3.6,4.2,3.8,0.56,Medium
+1161,Frontend Development,57,13,5,38.5,2.7,4.9,4.6,0.41,Low
+1162,Data Analyst,68,13,9,69.2,5.2,2.4,4.4,0.59,Medium
+1163,Digital Marketing,66,14,13,92.9,4.6,4.4,6.3,0.68,Medium
+1164,Data Analyst,65,9,4,44.4,4.7,5.6,5.1,0.53,Medium
+1165,Digital Marketing,74,9,5,55.6,4.4,2.9,3.0,0.56,Medium
+1166,Digital Marketing,71,20,10,50.0,5.6,4.5,3.9,0.61,Medium
+1167,Cybersecurity,70,15,5,33.3,3.3,4.5,5.6,0.48,Medium
+1168,Machine Learning,86,17,7,41.2,5.9,2.7,5.8,0.62,Medium
+1169,Data Analyst,100,18,13,72.2,7.1,6.1,5.1,0.78,High
+1170,Digital Marketing,90,19,8,42.1,5.8,8.2,2.6,0.53,Medium
+1171,UI/UX Design,64,15,3,20.0,4.9,4.3,2.0,0.32,Low
+1172,Machine Learning,86,16,9,56.2,5.3,5.8,7.3,0.63,Medium
+1173,UI/UX Design,91,14,11,78.6,6.5,8.4,4.5,0.78,High
+1174,Data Analyst,94,11,10,90.9,7.9,8.1,4.8,0.85,High
+1175,Data Analyst,81,8,4,50.0,3.4,4.0,6.5,0.55,Medium
+1176,Digital Marketing,70,14,12,85.7,7.0,5.6,7.6,0.66,Medium
+1177,Data Analyst,69,11,8,72.7,4.3,4.6,7.4,0.67,Medium
+1178,Backend Development,72,19,9,47.4,4.3,6.0,2.8,0.55,Medium
+1179,Machine Learning,87,14,10,71.4,6.0,3.3,6.7,0.77,High
+1180,Digital Marketing,90,14,9,64.3,4.9,4.4,4.7,0.6,Medium
+1181,UI/UX Design,56,20,3,15.0,2.0,3.8,3.5,0.42,Low
+1182,Frontend Development,86,14,10,71.4,8.5,5.8,9.0,0.86,High
+1183,UI/UX Design,76,13,8,61.5,5.5,5.3,6.5,0.65,Medium
+1184,UI/UX Design,85,11,7,63.6,5.6,4.3,7.0,0.7,High
+1185,Digital Marketing,86,18,9,50.0,6.3,7.0,8.0,0.7,High
+1186,Data Analyst,65,8,5,62.5,3.1,5.2,7.0,0.59,Medium
+1187,UI/UX Design,64,10,6,60.0,3.9,3.8,2.5,0.5,Medium
+1188,UI/UX Design,81,13,10,76.9,6.9,5.9,7.0,0.79,High
+1189,Digital Marketing,77,17,9,52.9,4.9,3.5,5.6,0.67,Medium
+1190,Frontend Development,69,20,12,60.0,5.2,3.0,6.6,0.58,Medium
+1191,UI/UX Design,84,18,10,55.6,5.0,4.7,6.9,0.64,Medium
+1192,Digital Marketing,71,20,12,60.0,5.5,6.0,5.0,0.61,Medium
+1193,Machine Learning,61,18,7,38.9,1.9,3.8,4.2,0.5,Medium
+1194,Digital Marketing,64,17,7,41.2,6.3,4.7,5.1,0.54,Medium
+1195,Digital Marketing,63,18,8,44.4,6.3,6.3,7.3,0.6,Medium
+1196,Backend Development,67,11,7,63.6,4.7,5.2,6.8,0.72,High
+1197,UI/UX Design,81,15,8,53.3,5.9,6.0,4.9,0.61,Medium
+1198,UI/UX Design,73,12,6,50.0,3.2,5.5,4.6,0.54,Medium
+1199,Machine Learning,52,14,6,42.9,5.4,5.5,3.2,0.47,Medium
+1200,Cybersecurity,85,16,9,56.2,6.1,3.4,5.4,0.67,Medium
